@@ -1,4 +1,4 @@
 function fire(x){
     console.log(x)
-    console.log('_')
+    console.log('_!_')
 }
